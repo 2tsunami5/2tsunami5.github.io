@@ -10,13 +10,13 @@ body {
   margin: 0px 450px 5px;
   padding: 5px;
   max-width: 960px;
-  text-align: justify;
+  text-align: left;
   }
 .pseudowrapper {
   margin: 0px 450px 5px;
   padding: 5px;
   max-width: 960px;
-  text-align: justify;
+  text-align: left;
 }
 h1 {
   padding: 5px;
@@ -64,3 +64,4 @@ h5 {
   }
 
 }
+
